@@ -19,6 +19,10 @@ First Scan / Next Scan, сортировка по значению, правка
 
 Кнопка «Значение A-Z» сортирует список.
 
+## Демо
+
+[![Sieve — работа программы](https://img.youtube.com/vi/rgCnpN-Kz2I/hqdefault.jpg)](https://youtu.be/rgCnpN-Kz2I)
+
 ## Сборка
 
 Нужен Rust stable и Windows 10/11.
