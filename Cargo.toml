@@ -1,0 +1,18 @@
+[package]
+name = "sieve"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+eframe = "0.29"
+sysinfo = "0.32"
+rayon = "1.10"
+
+[dependencies.windows]
+version = "0.58"
+features = [
+    "Win32_Foundation",
+    "Win32_System_Threading",
+    "Win32_System_Diagnostics_Debug",
+    "Win32_System_Memory",
+]
